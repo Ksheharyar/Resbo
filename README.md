@@ -20,7 +20,7 @@ Send 100,000+ personalized emails through Gmail SMTP or AWS SES with real-time t
 
 <br />
 
-**If CadenceRelay saves you time or money, consider [sponsoring the project](https://github.com/sponsors/pulkitpareek18).**
+
 
 </div>
 
